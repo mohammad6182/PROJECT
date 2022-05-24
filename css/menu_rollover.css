@@ -40,7 +40,7 @@ body{
     cursor: pointer;
 }
 
-.menu li: :hover {
+.menu li:hover {
     background-color: #5EAFDF;
     color: #fff;
 }
@@ -69,4 +69,9 @@ body{
     background-color: #387593;
     display: block;
     color: #B3B3B3;
+}
+
+.submenu li:hover {
+    color: #fff;
+    background-color: #5EAfDf;
 }
